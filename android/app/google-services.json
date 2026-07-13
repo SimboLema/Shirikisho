@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "651808929379",
+    "project_id": "shirikisho-driver",
+    "storage_bucket": "shirikisho-driver.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651808929379:android:f8db48ca8599752f1dea56",
+        "android_client_info": {
+          "package_name": "com.humtech.shirikisho3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa-HdOdg3M5sb6_AIiTlNBEeRa8OfmYpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "963405190337",
+    "project_id": "shirikisho-85e71",
+    "storage_bucket": "shirikisho-85e71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963405190337:android:04f8ea845c2cefa67cf040",
+        "android_client_info": {
+          "package_name": "com.humtech.shirikisho2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdBwIrLXB3UnR5HKETAr7JJfqPPGMnPMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

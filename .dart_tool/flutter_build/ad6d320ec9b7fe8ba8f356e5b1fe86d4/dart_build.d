@@ -1,0 +1,1 @@
+ C:\\Users\\user\\Desktop\\SIMBO\ TECHNOLOGIES\\MY\ PROJECTS\\Shirikisho\\Mobile-main\\.dart_tool\\flutter_build\\ad6d320ec9b7fe8ba8f356e5b1fe86d4\\dart_build_result.json: 
